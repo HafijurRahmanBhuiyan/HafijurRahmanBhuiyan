@@ -13,7 +13,7 @@
   <a href="https://github.com/HafijurRahmanBhuiyan"><img src="https://img.shields.io/badge/GitHub-121826?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-📍 Dhaka, Bangladesh &nbsp;•&nbsp; 🎓 B.Sc. in CSE, Independent University Bangladesh &nbsp;•&nbsp; 💼 Open to Software Engineer / Full-Stack roles
+📍 Golden Palace, Uttar Badda, Dhaka-1212 &nbsp;•&nbsp; 🎓 B.Sc. in CSE, Independent University Bangladesh &nbsp;•&nbsp; 💼 Open to Software Engineer / Full-Stack roles
 
 </div>
 

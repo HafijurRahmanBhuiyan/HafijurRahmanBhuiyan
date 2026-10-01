@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hafijur Rahman Bhuiyan
 
 ### Software Engineer | Full-Stack Developer
-📍 Dhaka, Bangladesh | 📧 hrssohan2@gmail.com | 🔗 [Portfolio](https://hafijurrahmanbhuiyan.github.io/Portfolio/) | 💼 [LinkedIn](linkedin.com/in/hafijur-rahman-bhuiyan)
+📍 Dhaka, Bangladesh | 📧 hrssohan2@gmail.com | 🔗 [Portfolio](https://hafijurrahmanbhuiyan.github.io/Portfolio/) | 💼 [LinkedIn](https://www.linkedin.com/in/hafijur-rahman-bhuiyan)
 
 ---
 
@@ -124,7 +124,7 @@ Designed and built a mobile-friendly, bilingual (English/Bengali) single-page si
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hafijurrahmanbhuiyan.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/hafijur-rahman-bhuiyan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafijur-rahman-bhuiyan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrssohan2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HafijurRahmanBhuiyan)
 
